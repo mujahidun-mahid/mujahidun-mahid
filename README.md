@@ -1,179 +1,240 @@
-# Hey, I'm Mujahidun Muslim Mahid 👋
-
-### UI/UX Designer · Product Designer · Web Designer · Developer
-
-I’m a **UI/UX Designer and Computer Science professional** passionate about creating digital products that are simple, useful, and visually refined.
-
-I enjoy turning ideas and complex requirements into **clean user experiences, intuitive interfaces, and modern web products**.
-
-Currently focused on **UI/UX Design, Product Design, Web Design, and Frontend Development**.
-
----
-
-## 👨‍💻 About Me
-
-* 🎨 UI/UX Designer focused on user-centered digital experiences
-* 🖥️ Web Designer with an interest in modern responsive interfaces
-* 💻 Background in Computer Science & Technology
-* 🚀 Building personal projects and exploring new product ideas
-* 🧩 Experienced with design systems, user flows, wireframes, and high-fidelity UI
-* 🌱 Currently improving my frontend development and programming skills
-* 🤝 Open to collaborating on interesting products and creative projects
-* 💬 Ask me about **UI/UX, Figma, Web Design, or Product Design**
-* 📫 Reach me at **[mujahidunmahid@gmail.com](mailto:mujahidunmahid@gmail.com)**
-
----
-
-## 🛠️ Skills & Tools
-
-### 🎨 Design
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prototyping-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design%20Systems-111827?style=for-the-badge"/>
-</p>
-
-### 💻 Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
-
----
-
-## 🚀 What I Do
+# `> whoami`
 
 ```text
-UI/UX Design
-   ↓
-Research & User Flows
-   ↓
-Wireframes
-   ↓
-High-Fidelity UI
-   ↓
-Interactive Prototypes
-   ↓
-Developer Handoff
-   ↓
-Continuous Improvement
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ███╗   ███╗ █████╗ ██╗  ██╗██╗██████╗                    │
+│   ████╗ ████║██╔══██╗██║  ██║██║██╔══██╗                   │
+│   ██╔████╔██║███████║███████║██║██║  ██║                   │
+│   ██║╚██╔╝██║██╔══██║██╔══██║██║██║  ██║                   │
+│   ██║ ╚═╝ ██║██║  ██║██║  ██║██║██████╔╝                   │
+│   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝                    │
+│                                                              │
+│                 MUJAHIDUN MUSLIM MAHID                       │
+│                                                              │
+│        UI/UX DESIGNER  •  DEVELOPER  •  PROBLEM SOLVER      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-I care about both **how a product looks and how it works**.
+```bash
+$ whoami
 
-My design process usually focuses on:
+mujahidun-mahid
 
-* User flows & information architecture
-* Wireframing
-* Interaction design
-* Visual hierarchy
-* Responsive design
-* Design systems
-* Accessibility
-* Prototyping
-* Developer handoff
-* Product thinking
+$ cat /etc/profile
 
----
+UI/UX Designer
+Developer
+C/C++ Programmer
+DSA Enthusiast
+Flutter Developer
+Web Designer
 
-## 📌 Featured Projects
+$ echo $STATUS
 
-### 🧺 LAUNDRIX
-
-**AI-powered multi-vendor laundry management platform**
-
-A modern SaaS platform designed to streamline laundry operations, automate workflows, optimize deliveries, and improve customer experiences.
-
-**Focus:** Product Design · UX Strategy · SaaS · Dashboard Design · Design System
+[ ONLINE ]
+```
 
 ---
 
-### 🚗 Ride-Sharing App
+## `~/about`
 
-A modern ride-sharing experience focused on making booking, navigation, and trip management simple and intuitive.
+```text
+┌──[ mahid@github ]─[~]
+└─$ ./about_me
 
-**Focus:** Mobile UX · Interaction Design · Visual Design · Prototyping
+> Computer Science & Technology
+> UI/UX + Software Development
+> Interested in algorithms & problem solving
+> Building interfaces and applications
+> Exploring systems, code & technology
 
----
-
-### 🏠 CampusBari
-
-An accommodation discovery platform designed to help students find suitable housing more easily.
-
-**Focus:** UX Research · Search Experience · Mobile UI · User Flows
-
----
-
-### 🛍️ BDMUKTO-BAZAR
-
-A modern e-commerce experience designed around product discovery, shopping, and a streamlined checkout journey.
-
-**Focus:** E-commerce · UX/UI · Responsive Design · Conversion
+I like understanding how things work under the hood
+and turning ideas into functional digital products.
+```
 
 ---
 
-## 📊 GitHub Stats
+## `~/tech_stack`
+
+### `LOW LEVEL`
+
+```text
+C             ████████████████████
+C++           ████████████████████
+DSA           ██████████████████░░
+```
+
+### `WEB`
+
+```text
+HTML          ████████████████████
+CSS           ███████████████████░
+```
+
+### `MOBILE`
+
+```text
+DART          ██████████████████░░
+FLUTTER       █████████████████░░░
+```
+
+### `DESIGN`
+
+```text
+UI/UX         ████████████████████
+FIGMA         ████████████████████
+PROTOTYPING   ██████████████████░░
+```
+
+---
+
+## `~/skills`
+
+```text
+[+] C / C++
+[+] Data Structures & Algorithms
+[+] Problem Solving
+[+] HTML / CSS
+[+] Dart
+[+] Flutter
+[+] UI/UX Design
+[+] Responsive Design
+[+] Wireframing
+[+] Prototyping
+[+] Git / GitHub
+```
+
+---
+
+## `~/projects`
+
+```bash
+$ ls -la ./projects
+
+drwxr-xr-x  LAUNDRIX/
+drwxr-xr-x  CAMPUSBARI/
+drwxr-xr-x  RIDE-SHARING/
+drwxr-xr-x  BDMUKTO-BAZAR/
+drwxr-xr-x  LUMU-LIVE/
+```
+
+### `LAUNDRIX`
+
+```text
+AI-powered multi-vendor laundry management platform.
+
+[ SaaS ] [ Dashboard ] [ UX ] [ Product Design ]
+```
+
+### `CampusBari`
+
+```text
+Accommodation discovery platform designed for students.
+
+[ Mobile ] [ UX ] [ Search ] [ Product Design ]
+```
+
+### `Lumu Live`
+
+```text
+Live streaming application focused on real-time interaction.
+
+[ Flutter ] [ Dart ] [ Firebase ] [ Mobile ]
+```
+
+---
+
+## `~/current_mission`
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  [████████████████████████████████████████] 100%   │
+│                                                    │
+│  > Improving C/C++                                │
+│  > Mastering DSA                                  │
+│  > Building Flutter applications                  │
+│  > Designing better digital experiences            │
+│  > Learning something new every day                │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+## `~/github_stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mujahidun-mahid&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mujahidun-mahid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidun-mahid&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidun-mahid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" height="170"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## `~/contributions`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mujahidun-mahid&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=mujahidun-mahid&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=777777"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `~/terminal`
 
-<p align="left">
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  mahid@github:~$ ping -c 1 creativity                       │
+│                                                             │
+│  64 bytes from creativity: time<1ms                        │
+│                                                             │
+│  mahid@github:~$ ping -c 1 curiosity                        │
+│                                                             │
+│  64 bytes from curiosity: time<1ms                          │
+│                                                             │
+│  mahid@github:~$ echo "keep building."                      │
+│                                                             │
+│  keep building.                                             │
+│                                                             │
+│  mahid@github:~$ █                                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<a href="mailto:mujahidunmahid@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/mujahidun-mahid">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## `~/contact`
 
-</p>
+```bash
+$ curl contact://mahid
+
+EMAIL     → mujahidunmahid@gmail.com
+GITHUB    → github.com/mujahidun-mahid
+
+STATUS    → AVAILABLE
+```
 
 ---
 
 <div align="center">
 
-### ✨ Designing experiences. Building products. Solving problems.
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        CODE • DESIGN • DEBUG • REPEAT               ║
+║                                                      ║
+║                 [ SYSTEM ONLINE ]                    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-**Thanks for visiting my profile!**
+**`> Thanks for entering my terminal.`**
 
 </div>
